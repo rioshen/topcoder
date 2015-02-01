@@ -1,3 +1,6 @@
+/**
+ * String Manipulation problem
+ */
 public class SubstringReversal {
 	private String reverse(String s, int start, int end) {
 		StringBuilder sb = new StringBuilder();
